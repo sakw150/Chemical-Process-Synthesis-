@@ -19,4 +19,6 @@ The following components were reviewed and designed:
 
 Financial and economic statements were generated based on process conditions. 
 
+Software utilized: Aspen Plus, Aspen Hysys, Python, MATLAB, Excel 
+
 Project Authors: Samuel Kwon, Teeb Alnaji, Ally Smith, Abby Williams 
